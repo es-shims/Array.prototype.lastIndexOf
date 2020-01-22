@@ -6,7 +6,7 @@
 	"scripts": {
 		"prepublish": "safe-publish-latest",
 		"pretest": "npm run lint",
-		"prelint": "evalmd README.md",
+		"todo-prelint": "evalmd README.md",
 		"lint": "eslint .",
 		"test": "npm run tests-only",
 		"posttest": "npx aud",
