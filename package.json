@@ -9,7 +9,7 @@
 		"todo-prelint": "evalmd README.md",
 		"lint": "eslint .",
 		"test": "npm run tests-only",
-		"posttest": "npx aud",
+		"posttest": "npx aud --production",
 		"tests-only": "es-shim-api --bound && npm run test:shimmed && npm run test:module && npm run test:implementation",
 		"test:implementation": "node test/implementation",
 		"test:shimmed": "node test/shimmed",
@@ -46,6 +46,7 @@
 	"devDependencies": {
 		"@es-shims/api": "^2.1.2",
 		"@ljharb/eslint-config": "^16.0.0",
+		"aud": "^1.0.0",
 		"auto-changelog": "^1.16.3",
 		"covert": "^1.1.1",
 		"eslint": "^6.8.0",
