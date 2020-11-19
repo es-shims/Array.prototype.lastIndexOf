@@ -5,6 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.1](https://github.com/es-shims/Array.prototype.lastIndexOf/compare/v1.0.0...v1.0.1) - 2020-11-19
+
+### Commits
+
+- [Tests] migrate tests to Github Actions [`d44c242`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/d44c2426ef5eccb661fb4f042decb38b7e639361)
+- [Deps] update `es-abstract`; use `call-bind` where applicable [`f734a6c`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/f734a6cdba7640d98c4fa056861d435e1e0ae3af)
+- [Tests] run `nyc` on all tests [`201f9f3`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/201f9f3ba51f516ab8e76daf444d72eaf1bd45b2)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `aud`, `auto-changelog`, `tape` [`0b49587`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/0b49587e7661948c9639b829ae93c0424b893056)
+- [actions] add "Allow Edits" workflow [`4996250`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/4996250b11cbb99e351cff66945e79ecbe0222ff)
+- [Tests] run `es-shim-api` in postlint; use `tape` runner [`ae68471`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/ae684719ddb25a5e1c466c1d119c6b5d0d34db58)
+- [Dev Deps] update `aud`, `auto-changelog` [`3cc87b0`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/3cc87b01913ede842a339a13f3ac96f7801c9a2e)
+- [Dev Deps] update `auto-changelog`, `tape` [`82c5099`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/82c50998426eafe39c818af91064901bb68c6ca0)
+- [Dev Deps] update `functions-have-names`, `tape` [`3509732`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/3509732516338dc43368c0f7aa3483b568fb8540)
+- [Tests] only audit prod deps [`142ed84`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/142ed84574a173efb978b47f94dfa41a1ef5570f)
+- [actions] switch Automatic Rebase workflow to `pull_request_target` event [`dfbf236`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/dfbf23653ef33110ac8336a9e3efbe324fdb326e)
+- [Deps] update `es-abstract` [`40fe88e`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/40fe88ef6581f633817ff26264e69ee99fcb1f9d)
+- [Dev Deps] update `@ljharb/eslint-config` [`81fca5a`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/81fca5a0a9b0e66c29685b4f2858edc81cb1164a)
+- [Deps] update `es-abstract` [`4e46827`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/4e46827572bc4199d775719d0fc32c786c46d0fb)
+
 ## v1.0.0 - 2020-01-22
 
 ### Commits
