@@ -1,6 +1,6 @@
 'use strict';
 
-var callBind = require('es-abstract/helpers/callBind');
+var callBind = require('call-bind');
 var test = require('tape');
 
 var lastIndexOf = require('../implementation');
