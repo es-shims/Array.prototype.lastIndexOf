@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.2](https://github.com/es-shims/Array.prototype.lastIndexOf/compare/v1.0.1...v1.0.2) - 2021-02-21
+
+### Commits
+
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `aud`, `functions-have-names`, `has-strict-mode`, `tape` [`57904e3`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/57904e3e2511c400c3b370b0048c4b7ee6614e6b)
+- [readme] remove travis badge [`07045b0`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/07045b04fc65d638815952955ddbff87aada9a90)
+- [actions] update workflows [`6a3bc1e`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/6a3bc1e634cee4200c7043d475b630301b05d4ca)
+- [Deps] update `call-bind`, `es-abstract`, `is-negative-zero` [`826797e`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/826797ea611c667881aa8fca0d33aa65785006f3)
+- [Tests] increase coverage [`43663e1`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/43663e190c2e2a094a8cd6569c27a36831611c87)
+
 ## [v1.0.1](https://github.com/es-shims/Array.prototype.lastIndexOf/compare/v1.0.0...v1.0.1) - 2020-11-19
 
 ### Commits
