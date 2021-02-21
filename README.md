@@ -1,7 +1,5 @@
 # array.prototype.lastindexof <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
-[![Build Status][travis-svg]][travis-url]
-[![dependency status][deps-svg]][deps-url]
 [![dev dependency status][dev-deps-svg]][dev-deps-url]
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
@@ -52,9 +50,7 @@ assert.equal([1, 2, 3].lastIndexOf(2), 1);
 Simply clone the repo, `npm install`, and run `npm test`
 
 [package-url]: https://npmjs.org/package/array.prototype.lastindexof
-[npm-version-svg]: http://versionbadg.es/es-shims/Array.prototype.lastIndexOf.svg
-[travis-svg]: https://travis-ci.org/es-shims/Array.prototype.lastIndexOf.svg
-[travis-url]: https://travis-ci.org/es-shims/Array.prototype.lastIndexOf
+[npm-version-svg]: https://versionbadg.es/es-shims/Array.prototype.lastIndexOf.svg
 [deps-svg]: https://david-dm.org/es-shims/Array.prototype.lastIndexOf.svg
 [deps-url]: https://david-dm.org/es-shims/Array.prototype.lastIndexOf
 [dev-deps-svg]: https://david-dm.org/es-shims/Array.prototype.lastIndexOf/dev-status.svg
@@ -64,4 +60,3 @@ Simply clone the repo, `npm install`, and run `npm test`
 [license-url]: LICENSE
 [downloads-image]: https://img.shields.io/npm/dm/array.prototype.lastindexof.svg
 [downloads-url]: https://npm-stat.com/charts.html?package=array.prototype.lastindexof
->>>>>>> 77aead9... readme
