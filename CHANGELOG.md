@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.6](https://github.com/es-shims/Array.prototype.lastIndexOf/compare/v1.0.5...v1.0.6) - 2024-03-19
+
+### Commits
+
+- [Deps] update `call-bind`, `define-properties`, `es-abstract`, `is-negative-zero` [`7c013c3`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/7c013c3cd598deae3815fdb6f21076073c728337)
+- [actions] remove redundant finisher [`61f0b4d`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/61f0b4db4fe9d1162a3ea36bb382b3fab7395d68)
+- [Refactor] use `es-object-atoms` where possible [`609f1a4`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/609f1a413087ee7243851025596e05b90d9de613)
+- [Tests] use `call-bind` instead of `function-bind` [`80e8cd8`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/80e8cd82f7c9fc28fb92ee91bea552d571d690ac)
+- [Dev Deps] update `aud`, `npmignore`, `tape` [`7fd0d51`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/7fd0d51114ace1f25c8774a762f20ddec0247325)
+
 ## [v1.0.5](https://github.com/es-shims/Array.prototype.lastIndexOf/compare/v1.0.4...v1.0.5) - 2023-09-05
 
 ### Commits
