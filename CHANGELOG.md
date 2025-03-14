@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.7](https://github.com/es-shims/Array.prototype.lastIndexOf/compare/v1.0.6...v1.0.7) - 2025-03-14
+
+### Commits
+
+- [Refactor] remove dead code [`5e72f7b`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/5e72f7bf6d19da1b724743a9b5cfa3a5e0ac65d0)
+- [Dev Deps] update `@es-shims/api`, `@ljharb/eslint-config`, `auto-changelog`, `has-strict-mode`, `tape` [`736c796`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/736c796e099085666245f3aa91ae81c320753432)
+- [Deps] update `call-bind`, `es-abstract`, `es-object-atoms`, `is-string` [`7d7da7c`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/7d7da7ce75bee9ff6d7d0d65ea32e34ff01e1039)
+- [Refactor] use `call-bound` directly [`ea33fa8`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/ea33fa866d7bcbf41a578a66b004c5d75bf6c574)
+- [Tests] replace `aud` with `npm audit` [`ed43955`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/ed439556b79173e6692dc9daca96b8a7fbe47fef)
+- [Dev Deps] add missing peer dep [`8290ea9`](https://github.com/es-shims/Array.prototype.lastIndexOf/commit/8290ea9922702dc1d09d82512f9a01d3458d0cc2)
+
 ## [v1.0.6](https://github.com/es-shims/Array.prototype.lastIndexOf/compare/v1.0.5...v1.0.6) - 2024-03-19
 
 ### Commits
